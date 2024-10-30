@@ -6,7 +6,7 @@
 
 
 	
-<a href="https://geologica.gov.pk/volume9/">Volume 10</a><br>
+<a href="https://geologica.gov.pk/volume10/">Volume 10</a><br>
 <a href="https://geologica.gov.pk/volume9/25/07/2024/geological-exploration-and-genetic-modelling-of-jol-khand-iron-ore-baluchistan-pakistan/2676/">Article 01</a>
 <a href="https://zenodo.org/doi/10.5281/zenodo.11189406"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.11189406-blue?labelColor=green" alt="DOI"></a>
 <br>
